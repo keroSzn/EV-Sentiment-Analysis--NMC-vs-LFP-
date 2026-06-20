@@ -1,0 +1,871 @@
+LLM_Satisfaction,LLM_Model,LLM_Battery,LLM_Climate,LLM_Commute,LLM_Home_Charging,LLM_Patience
+Negative,Tesla Model 3,NMC,Hot,Long,Yes,Low
+Positive,Bolt EUV,NMC,Hot,Long,Yes,High
+Neutral,Kia Niro EV,NMC,Cold,Long,Yes,Low
+Neutral,Hyundai IONIQ 5,NMC,Cold,Unknown,Yes,High
+Positive,Toyota bz4x,NMC,Cold,Long,Yes,High
+Positive,Neta V,NMC,Unknown,Short,Yes,High
+Neutral,Mustang Mach E,NMC,Cold,Long,Yes,High
+Neutral,Honda Prologue,NMC,Mild,Unknown,Yes,Low
+Positive,Tesla Model 3,NMC,Hot,Long,Yes,High
+Neutral,Tesla (General),NMC,Cold,Long,Yes,High
+Neutral,Chevy EqEv,NMC,Cold,Short,Yes,High
+Positive,Tesla Model Y,NMC,Unknown,Short,Yes,High
+Positive,Hyundai IONIQ 5,NMC,Cold,Short,Yes,Low
+Positive,Chevy Bolt EUV,NMC,Unknown,Long,Yes,High
+Positive,Tesla (General),NMC,Hot,Long,Yes,High
+Positive,Tesla Model 3,LFP,Cold,Unknown,Yes,Low
+Positive,Tesla Model Y,LFP,Cold,Short,No,High
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,High
+Positive,Porsche Taycan,NMC,Hot,Long,Yes,High
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,High
+Positive,Kia EV9,NMC,Unknown,Long,Yes,Low
+Negative,Tesla (General),NMC,Unknown,Short,Yes,Low
+Positive,Tesla Model Y,NMC,Cold,Short,Yes,High
+Positive,Chevy Bolt EV,NMC,Cold,Short,Yes,High
+Positive,Hyundai Ioniq 5,NMC,Unknown,Long,Yes,High
+Positive,VW ID 4,NMC,Hot,Long,Yes,High
+Neutral,Kia EV6,NMC,Hot,Long,Yes,Low
+Negative,Kia EV6,NMC,Unknown,Long,Yes,Low
+Neutral,Chevy Bolt EV,NMC,Cold,Long,Yes,High
+Positive,Tesla Model Y,NMC,Hot,Short,Yes,High
+Negative,Tesla (General),NMC,Cold,Short,No,Low
+Neutral,Chevy Bolt EUV,NMC,Hot,Unknown,No,High
+Positive,Kia Niro EV,NMC,Hot,Long,Yes,Low
+Neutral,Tesla (General),NMC,Unknown,Short,Yes,High
+Positive,Kia Niro EV,NMC,Hot,Long,Yes,Low
+Positive,Nissan Ariya,NMC,Hot,Short,Yes,Low
+Neutral,Mercedes EQV 300,NMC,Unknown,Long,Yes,Low
+Positive,Tesla Model 3,NMC,Cold,Long,Yes,Low
+Positive,Dongfeng Nammi Box,LFP,Hot,Short,Yes,Low
+Neutral,Chevy Blazer EV,NMC,Cold,Short,Yes,Low
+Positive,Tesla Model Y,NMC,Cold,Long,No,Low
+Positive,Polestar 2,NMC,Unknown,Short,Yes,Low
+Positive,Kia (General),NMC,Hot,Long,Yes,Low
+Neutral,Chevy Bolt EV,NMC,Cold,Long,Unknown,Low
+Positive,Tesla Model Y,NMC,Hot,Long,Yes,Low
+Neutral,Kia Niro,NMC,Cold,Short,Unknown,Low
+Positive,VW ID.4,NMC,Hot,Short,Yes,Low
+Negative,Tesla Model Y,NMC,Hot,Long,Yes,Low
+Negative,Tesla (General),NMC,Unknown,Short,Yes,Low
+Negative,Tesla (General),NMC,Cold,Short,Yes,Low
+Positive,Tesla Model S 85,NMC,Hot,Short,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Cold,Long,Yes,Low
+Negative,Hyundai Genesis,NMC,Hot,Long,Yes,Low
+Positive,Polestar 2,NMC,Hot,Long,Yes,Low
+Positive,Ford F-150 Lightning,NMC,Cold,Long,Yes,Low
+Neutral,Zoe,LFP,Hot,Long,Yes,Low
+Positive,Tesla Model 3,NMC,Hot,Long,Yes,Low
+Positive,Tesla (General),NMC,Cold,Unknown,Yes,Low
+Negative,Kia EV6,NMC,Hot,Short,Yes,Low
+Positive,Polestar 2,NMC,Hot,Long,Yes,Low
+Positive,Nissan Leaf,NMC,Cold,Short,Yes,Low
+Positive,Subaru Solterra,NMC,Cold,Long,Yes,Low
+Neutral,Tesla (General),NMC,Mild,Long,Unknown,Low
+Positive,Volvo EX30,NMC,Cold,Short,Yes,Low
+Negative,Ioniq 6,NMC,Unknown,Long,Yes,Low
+Positive,Ioniq phev,NMC,Cold,Short,No,Low
+Positive,Ioniq 5,NMC,Hot,Long,Yes,Low
+Negative,Mercedes EQB 300,NMC,Cold,Long,Yes,Low
+Positive,Porsche Taycan,NMC,Hot,Long,Yes,High
+Neutral,Lucid,NMC,Hot,Short,Yes,Low
+Positive,Tesla Model 3,NMC,Cold,Short,No,Low
+Positive,Hyundai Ioniq 9,NMC,Cold,Long,Yes,Low
+Positive,Nio EV,NMC,Hot,Short,Yes,Low
+Positive,Chevy EqEv,NMC,Unknown,Short,Yes,Low
+Positive,Hyundai Ioniq 6,NMC,Cold,Long,Yes,Low
+Negative,Chevy Volt,NMC,Cold,Long,Unknown,Low
+Neutral,F150 Lightning,LFP,Cold,Long,Yes,High
+Neutral,Kia EV6,NMC,Hot,Long,Yes,Low
+Neutral,F-150 Lightning,NMC,Hot,Long,Yes,Low
+Negative,Rivian R1T,NMC,Cold,Long,Yes,Low
+Negative,Porsche Taycan,NMC,Hot,Unknown,Yes,Low
+Positive,Chevy Bolt,NMC,Cold,Long,Yes,Low
+Neutral,Audi e-tron,NMC,Cold,Short,Yes,Low
+Positive,Ford Mach E,NMC,Hot,Unknown,Yes,Low
+Negative,Ford F-150 Lightning,NMC,Cold,Unknown,Yes,Low
+Positive,Ford Mach E,NMC,Hot,Long,Yes,Low
+Negative,Ioniq 6,NMC,Hot,Long,Yes,Low
+Positive,Mercedes eVito,NMC,Hot,Long,Yes,Low
+Positive,Tesla Model 3,NMC,Cold,Long,Yes,Low
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,Low
+Negative,Genesis GV60P,NMC,Hot,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Unknown,Long,No,High
+Positive,Ford Mustang Mach-E,NMC,Hot,Long,Yes,Low
+Neutral,VW ID.4,NMC,Mild,Long,Yes,High
+Neutral,Hyundai Ioniq 5,NMC,Cold,Long,Unknown,Low
+Positive,Ford F-150 Lightning,NMC,Cold,Short,Yes,Low
+Positive,VW ID.4,NMC,Hot,Long,Yes,High
+Neutral,Kia e-Niro,NMC,Hot,Long,No,Low
+Positive,VW ID.4,NMC,Hot,Long,Yes,Low
+Neutral,MG4,LFP,Unknown,Long,Yes,Low
+Positive,Tesla Model 3,NMC,Unknown,Short,Yes,Low
+Positive,Mercedes Benz EQE SUV 350+,NMC,Hot,Short,Yes,Low
+Neutral,Hyundai Kona,NMC,Hot,Unknown,No,Low
+Positive,Kia EV9,NMC,Unknown,Short,Yes,Low
+Positive,BMW ix50,NMC,Hot,Unknown,Yes,Low
+Neutral,Kia EV6,NMC,Hot,Long,No,Low
+Neutral,Ioniq 6,NMC,Cold,Long,Yes,Low
+Positive,Tesla (General),NMC,Hot,Long,Yes,High
+Positive,Hyundai Ioniq 5,NMC,Hot,Long,Yes,Low
+Neutral,Tesla Model Y,LFP,Hot,Long,Yes,High
+Neutral,BMW i4 eDrive35,NMC,Hot,Long,Unknown,High
+Positive,Kia Niro EV,NMC,Mild,Long,Unknown,Low
+Neutral,Chevy Bolt EV,NMC,Cold,Long,No,Low
+Neutral,BYD,NMC,Unknown,Short,Yes,Low
+Positive,Kia EV9,NMC,Hot,Long,Yes,Low
+Positive,Ford Mach-E,NMC,Cold,Short,Yes,Low
+Neutral,Spark EV,LFP,Hot,Short,Unknown,High
+Positive,Ioniq 5,NMC,Cold,Short,Yes,Low
+Negative,Hyundai,NMC,Hot,Long,Yes,Low
+Positive,Toyota bZ4X,NMC,Unknown,Short,Yes,Low
+Positive,Audi Q4 Sportback,NMC,Unknown,Long,Yes,Low
+Positive,Chevy Bolt,NMC,Unknown,Long,Yes,Low
+Positive,Nissan Leaf,LFP,Unknown,Short,Yes,Low
+Positive,Xiaomi YU7 Pro,NMC,Hot,Short,Yes,Low
+Positive,Tesla (General),NMC,Hot,Long,Yes,Low
+Negative,Tesla (General),NMC,Unknown,Long,No,Low
+Negative,Ford F150 Lightning,NMC,Cold,Unknown,Yes,Low
+Negative,Tesla Model Y,NMC,Unknown,Long,Yes,Low
+Negative,Hyundai,NMC,Hot,Long,Unknown,Low
+Positive,Tesla Model 3,NMC,Cold,Long,Yes,High
+Positive,Chevy EqEv,LFP,Cold,Long,Yes,Low
+Positive,Nissan Leaf,NMC,Hot,Short,Yes,Low
+Positive,Hyundai Kona,NMC,Cold,Long,Unknown,Low
+Negative,Tesla Model 3,NMC,Cold,Short,Yes,Low
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Negative,Tesla Model S,NMC,Cold,Short,Yes,Low
+Neutral,peugeot e-expert,LFP,Cold,Long,Unknown,Low
+Neutral,Tesla Model 3,NMC,Cold,Long,Unknown,High
+Negative,Ram ProMaster,LFP,Cold,Short,Unknown,Low
+Positive,BMW i3,NMC,Mild,Long,Yes,High
+Positive,Tesla Model 3,LFP,Cold,Long,No,Low
+Neutral,Hyundai Ioniq 5,NMC,Cold,Long,Yes,High
+Positive,Dodge Charger EV,NMC,Unknown,Long,Yes,Low
+Positive,Tesla (General),NMC,Cold,Long,Yes,Low
+Positive,Hyundai Ioniq 6,NMC,Hot,Long,Yes,Low
+Positive,VW ID.4,NMC,Mild,Long,Unknown,High
+Positive,VW ID.4,NMC,Hot,Long,Yes,Low
+Neutral,Polestar,NMC,Cold,Long,Unknown,Low
+Neutral,Kia EV6,NMC,Hot,Long,Yes,Low
+Positive,Renault Zoe,NMC,Cold,Short,Yes,High
+Neutral,Polestar 2,LFP,Cold,Unknown,Unknown,Low
+Positive,VW ID.4,NMC,Unknown,Short,Yes,Low
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,Low
+Neutral,VW eGolf,NMC,Cold,Short,Yes,High
+Neutral,Tesla Model 3,NMC,Cold,Long,Unknown,Low
+Neutral,Audi e-tron,NMC,Cold,Long,Yes,Low
+Positive,Tesla Model 3,NMC,Cold,Short,Yes,Low
+Positive,Tesla Model 3,NMC,Mild,Long,Unknown,High
+Negative,Polestar,NMC,Hot,Long,Yes,Low
+Positive,BMW i4,NMC,Hot,Long,Yes,Low
+Positive,VW ID.4,NMC,Cold,Short,Yes,Low
+Neutral,BMW i4,NMC,Unknown,Short,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Hot,Long,Yes,Low
+Positive,VW ID.3,NMC,Unknown,Short,No,Low
+Positive,VW ID.4,NMC,Hot,Long,Yes,Low
+Neutral,Kia EV6,NMC,Hot,Long,Yes,Low
+Positive,Ford Mustang Mach-E,NMC,Hot,Long,Yes,Low
+Positive,Kia EV6,NMC,Unknown,Long,Yes,Low
+Positive,Hyundai Genesis,NMC,Unknown,Long,Yes,Low
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Hot,Short,Yes,Low
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,High
+Neutral,Tesla Model Y,NMC,Hot,Unknown,No,High
+Negative,Tesla (General),NMC,Mild,Unknown,Yes,Low
+Positive,Kia EV9,NMC,Hot,Long,Yes,Low
+Positive,Audi e-tron,NMC,Hot,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Unknown,Short,Yes,High
+Positive,VW ID.4,NMC,Cold,Short,Yes,Low
+Negative,Tesla (General),NMC,Unknown,Long,Yes,High
+Positive,Chevy Bolt EV,NMC,Mild,Short,No,High
+Positive,Fiat 500e,NMC,Hot,Short,Yes,Low
+Neutral,Chevy Bolt EV,NMC,Hot,Long,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Mild,Unknown,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Cold,Long,Yes,Low
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Positive,Tesla (General),NMC,Unknown,Unknown,No,High
+Positive,Chevy Bolt EV,NMC,Unknown,Long,No,Low
+Neutral,VW ID.3,NMC,Cold,Short,Unknown,High
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,Low
+Neutral,Audi e-tron,NMC,Cold,Short,Yes,Low
+Positive,VW ID.4,NMC,Hot,Short,Yes,Low
+Positive,Chevy Bolt EV,NMC,Hot,Long,No,Low
+Positive,VW ID.4,NMC,Cold,Long,Unknown,Low
+Neutral,Tesla Model 3,LFP,Unknown,Short,Yes,Low
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,Low
+Positive,Nissan Leaf,LFP,Cold,Short,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Hot,Long,Yes,Low
+Neutral,Kia EV6,NMC,Hot,Long,Yes,Low
+Positive,Ford Mach-E,NMC,Cold,Long,Yes,Low
+Neutral,Nissan Leaf,LFP,Hot,Long,Yes,Low
+Neutral,Ford Mach-E,NMC,Hot,Long,No,High
+Negative,Ford Mach-E,NMC,Cold,Long,No,Low
+Neutral,Hyundai Kona EV,NMC,Cold,Long,Unknown,Low
+Positive,Ford Mach-E,NMC,Cold,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Hot,Long,Yes,Low
+Positive,Ford Mach-E,NMC,Hot,Long,Yes,Low
+Positive,Ford Mach-E,NMC,Hot,Long,Yes,Low
+Negative,Tesla (General),NMC,Cold,Long,No,High
+Positive,Nissan Leaf,LFP,Mild,Long,Yes,High
+Neutral,Tesla Model 3,LFP,Hot,Long,Yes,Low
+Negative,Tesla (General),NMC,Unknown,Unknown,Yes,Low
+Positive,Kia EV6,NMC,Hot,Short,Yes,Low
+Positive,Chevy Bolt EV,NMC,Unknown,Short,Yes,Low
+Negative,BMW iX,NMC,Hot,Long,Yes,Low
+Neutral,Chevy Bolt EV,NMC,Hot,Long,Yes,Low
+Positive,Ford F-150 Lightning,NMC,Cold,Long,Yes,Low
+Neutral,Hyundai Ioniq 5,NMC,Hot,Unknown,Unknown,Low
+Negative,Hyundai Ioniq 5,NMC,Hot,Long,No,Low
+Positive,Polestar,NMC,Unknown,Long,Yes,Low
+Neutral,Tesla Model 3,LFP,Cold,Unknown,No,Low
+Neutral,Kia EV6,NMC,Cold,Long,Unknown,Low
+Positive,Hyundai Ioniq 5,NMC,Hot,Long,Unknown,Low
+Positive,Kia EV6,NMC,Cold,Long,Unknown,Low
+Neutral,Kia EV6,NMC,Hot,Long,Yes,Low
+Neutral,Kia EV6,NMC,Hot,Short,Yes,Low
+Negative,Kia EV6,NMC,Cold,Short,Yes,Low
+Negative,Ford Mustang Mach-E,NMC,Cold,Unknown,Yes,Low
+Neutral,Kia EV6,NMC,Hot,Long,Yes,Low
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Cold,Short,Yes,Low
+Positive,Nissan Leaf,LFP,Cold,Long,Yes,Low
+Neutral,Ford Mustang Mach-E,NMC,Cold,Short,Unknown,High
+Negative,Tesla Model Y,NMC,Cold,Short,Yes,Low
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Positive,Nissan Leaf,LFP,Cold,Short,Yes,Low
+Neutral,Tesla Model Y,NMC,Unknown,Short,Yes,Low
+Positive,Tesla Model Y,NMC,Hot,Long,Yes,Low
+Neutral,VW ID.4,NMC,Cold,Short,No,High
+Positive,Tesla Model Y,NMC,Hot,Long,Yes,Low
+Neutral,Ford Mach-E,NMC,Mild,Long,Yes,High
+Neutral,Hyundai Ioniq 5,NMC,Cold,Long,No,Low
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,Low
+Positive,Hyundai Kona EV,NMC,Hot,Long,Unknown,Low
+Neutral,Chevy Bolt EV,NMC,Hot,Long,Yes,Low
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,Low
+Negative,Audi e-tron,NMC,Hot,Short,Unknown,Low
+Positive,Ford Mustang Mach-E,NMC,Unknown,Short,Yes,Low
+Positive,Tesla Model Y,NMC,Hot,Long,Yes,High
+Negative,Hyundai Ioniq 5,NMC,Hot,Long,Yes,Low
+Neutral,Kia EV6,NMC,Mild,Long,Yes,Low
+Neutral,Ford Mustang Mach-E,NMC,Hot,Long,No,Low
+Neutral,Tesla Model 3,LFP,Cold,Short,No,Unknown
+Neutral,Chevy Bolt EV,NMC,Unknown,Short,No,High
+Positive,BMW i4,NMC,Cold,Unknown,Yes,High
+Positive,Polestar 2,NMC,Unknown,Short,Yes,Low
+Negative,Kia EV6,NMC,Unknown,Long,Yes,Low
+Positive,Nissan Leaf,NMC,Mild,Long,Yes,Low
+Neutral,BMW i4,NMC,Unknown,Long,Yes,Low
+Negative,Chevy Bolt EV,NMC,Cold,Long,Yes,Low
+Negative,Hyundai Ioniq 5,NMC,Hot,Long,No,Low
+Positive,Tesla Model 3,LFP,Hot,Short,Yes,Low
+Negative,Polestar 2,NMC,Cold,Short,No,Low
+Negative,Hyundai Ioniq 5,NMC,Hot,Long,Yes,Low
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,Low
+Negative,Polestar 2,NMC,Cold,Long,Yes,Low
+Negative,Tesla Model Y,NMC,Hot,Short,Yes,Low
+Neutral,Tesla Model 3,LFP,Hot,Long,Yes,Low
+Negative,VW ID.4,NMC,Hot,Long,No,Low
+Neutral,Polestar,NMC,Cold,Long,No,High
+Positive,Ford Mustang Mach-E,NMC,Hot,Unknown,Yes,High
+Negative,Polestar 2,NMC,Cold,Unknown,Yes,Low
+Negative,Hyundai Ioniq 5,NMC,Hot,Long,No,Low
+Positive,Tesla (General),NMC,Hot,Long,Yes,Low
+Neutral,Rivian,NMC,Unknown,Long,Yes,High
+Neutral,Ford F-150 Lightning,NMC,Hot,Unknown,Yes,High
+Positive,Hyundai Ioniq 5,NMC,Hot,Short,Unknown,Low
+Positive,Tesla Model Y,NMC,Hot,Long,Yes,Low
+Negative,Hyundai Ioniq 5,NMC,Cold,Long,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Hot,Long,Yes,Low
+Neutral,Hyundai Ioniq 5,NMC,Cold,Long,No,High
+Positive,Ford Mach-E,NMC,Unknown,Long,Yes,Low
+Neutral,Ford Mach-E,NMC,Cold,Long,Yes,Unknown
+Positive,VW ID.4,NMC,Unknown,Unknown,Yes,Low
+Neutral,Ford F-150 Lightning,NMC,Unknown,Long,No,Low
+Neutral,Hyundai Ioniq 5,NMC,Cold,Long,Yes,Low
+Negative,Ford Mach-E,NMC,Cold,Short,Yes,High
+Positive,VW ID.4,NMC,Cold,Unknown,Yes,Low
+Positive,Ford Mach-E,NMC,Cold,Long,Yes,Low
+Positive,Polestar 2,NMC,Hot,Long,No,Low
+Positive,Rivian,LFP,Hot,Long,Yes,Low
+Positive,Ford Mach-E,NMC,Cold,Long,Yes,Low
+Positive,Rivian,NMC,Unknown,Long,Yes,Unknown
+Negative,Rivian,NMC,Hot,Long,Yes,Low
+Positive,Tesla (General),LFP,Hot,Long,Yes,Low
+Positive,VW ID.4,NMC,Hot,Short,Yes,Unknown
+Neutral,Tesla (General),NMC,Hot,Unknown,Yes,Low
+Neutral,VW ID.4,NMC,Unknown,Long,Yes,Low
+Neutral,Ford F-150 Lightning,NMC,Cold,Short,Unknown,Unknown
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Positive,VW ID.4,NMC,Cold,Long,Yes,Unknown
+Positive,Ford Mach-E,NMC,Hot,Short,Yes,Low
+Neutral,Ford Mach-E,NMC,Hot,Long,Yes,High
+Neutral,Ford Mach-E,NMC,Cold,Long,Yes,High
+Positive,Ford Mach-E,NMC,Unknown,Unknown,Yes,Low
+Neutral,Ford Mach-E,NMC,Cold,Short,Yes,High
+Neutral,Ford Mach-E,NMC,Unknown,Long,Unknown,Low
+Positive,Ford Mach-E,NMC,Cold,Short,Yes,Low
+Positive,Rivian,LFP,Cold,Short,Yes,Low
+Neutral,Rivian,NMC,Cold,Long,No,Low
+Positive,Ford Mach-E,NMC,Hot,Unknown,Yes,High
+Neutral,Hyundai Ioniq 5,NMC,Cold,Long,Unknown,High
+Negative,Rivian,NMC,Hot,Long,Unknown,Low
+Negative,Rivian,NMC,Hot,Long,Yes,Low
+Neutral,Rivian,NMC,Cold,Short,Unknown,Unknown
+Negative,Hyundai Ioniq 5,NMC,Hot,Long,Yes,Low
+Positive,Tesla (General),NMC,Hot,Long,Yes,Low
+Neutral,Rivian,NMC,Unknown,Long,Unknown,High
+Positive,Ford Mach-E,NMC,Hot,Short,Yes,Low
+Neutral,Ford Mach-E,NMC,Cold,Unknown,Yes,High
+Positive,VW ID.4,NMC,Cold,Long,Unknown,High
+Negative,Ford F-150 Lightning,NMC,Hot,Unknown,No,Low
+Positive,Ford Mach-E,NMC,Hot,Long,Yes,Low
+Negative,VW ID.4,NMC,Hot,Long,Yes,Low
+Positive,Ford F-150 Lightning,NMC,Cold,Long,Yes,Low
+Positive,Ford Mach-E,NMC,Hot,Long,Yes,Low
+Neutral,Hyundai Ioniq 5,NMC,Cold,Long,Unknown,High
+Negative,Ford Mach-E,NMC,Hot,Long,No,Low
+Neutral,VW ID.4,NMC,Unknown,Short,Yes,Low
+Neutral,Ford Mach-E,NMC,Hot,Unknown,Unknown,Low
+Positive,Hyundai Ioniq 5,NMC,Cold,Long,Yes,Low
+Negative,Rivian,NMC,Hot,Long,Yes,Low
+Negative,Rivian,NMC,Hot,Long,Yes,Low
+Neutral,BMW i4,NMC,Unknown,Long,Yes,Low
+Neutral,Rivian,NMC,Hot,Long,Unknown,Low
+Positive,Hyundai Ioniq 5,NMC,Unknown,Long,Yes,High
+Negative,VW ID.4,NMC,Cold,Long,Unknown,Unknown
+Negative,Ford Mach-E,NMC,Hot,Short,Yes,High
+Negative,Rivian,NMC,Hot,Long,Yes,Low
+Positive,Tesla (General),NMC,Cold,Long,Yes,Low
+Negative,Tesla (General),NMC,Hot,Long,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Cold,Long,Yes,Low
+Positive,Chevy Bolt EV,NMC,Unknown,Short,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Hot,Short,Yes,Low
+Neutral,Rivian,LFP,Cold,Long,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Hot,Short,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Unknown,Unknown,Yes,High
+Negative,Tesla (General),NMC,Unknown,Short,Yes,Low
+Positive,Tesla (General),NMC,Unknown,Long,No,High
+Negative,Kia EV6,NMC,Mild,Short,Yes,Low
+Positive,VW ID.4,NMC,Cold,Long,Yes,High
+Negative,Ford Mustang Mach-E,NMC,Mild,Long,Yes,High
+Negative,Ford Mustang Mach-E,NMC,Mild,Short,Yes,Low
+Positive,Rivian,NMC,Mild,Long,Yes,Low
+Positive,Hyundai Ioniq 5,NMC,Cold,Short,Yes,High
+Positive,Nissan Leaf,LFP,Cold,Long,Yes,Low
+Positive,Kia EV6,NMC,Mild,Long,Yes,High
+Positive,Nissan Leaf,LFP,Mild,Long,Yes,High
+Negative,Ford Mustang Mach-E,NMC,Hot,Short,Yes,Unknown
+Positive,Nissan Leaf,LFP,Mild,Short,Yes,Low
+Positive,Tesla Model 3,LFP,Cold,Long,Yes,High
+Positive,Ford Mustang Mach-E,NMC,Mild,Short,Yes,High
+Positive,Chevy Bolt EV,NMC,Mild,Long,Yes,High
+Positive,Hyundai Ioniq 5,NMC,Mild,Long,Yes,High
+Positive,Polestar 2,NMC,Mild,Long,Yes,High
+Neutral,Kia EV6,NMC,Cold,Unknown,Yes,Low
+Positive,Chevy Bolt EV,NMC,Mild,Short,Yes,High
+Positive,Tesla Model 3,LFP,Mild,Short,Yes,High
+Positive,Polestar 2,NMC,Cold,Long,Yes,High
+Neutral,Lucid,NMC,Mild,Short,Yes,Unknown
+Negative,Chevy Bolt EV,NMC,Cold,Short,Yes,Low
+Negative,Tesla Model 3,LFP,Hot,Long,Yes,High
+Neutral,Audi e-tron,NMC,Cold,Long,Yes,Low
+Neutral,VW ID.4,NMC,Mild,Long,Yes,High
+Neutral,VW ID.4,NMC,Mild,Long,Yes,High
+Positive,Kia Niro,NMC,Mild,Long,Yes,High
+Positive,Kia Niro,NMC,Mild,Long,Yes,High
+Positive,VW ID.3,LFP,Mild,Long,Yes,High
+Neutral,Kia Niro,NMC,Cold,Short,Unknown,Low
+Positive,Vauxhall Corsa-e,NMC,Cold,Long,Yes,High
+Negative,Nissan Leaf,LFP,Mild,Unknown,Yes,Low
+Positive,Ford Mustang Mach-E,NMC,Mild,Short,Yes,High
+Negative,Kia EV6,NMC,Unknown,Long,Yes,Low
+Negative,Kia EV6,NMC,Mild,Short,Yes,Low
+Neutral,Tesla Model Y,NMC,Mild,Long,Yes,High
+Positive,Hyundai Genesis,NMC,Mild,Long,Yes,High
+Positive,Ford Mustang Mach-E,NMC,Cold,Short,Yes,High
+Positive,Chevy Bolt EV,NMC,Hot,Short,No,Low
+Negative,Nissan Leaf,LFP,Unknown,Long,Yes,Low
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,Low
+Positive,Audi Q8 e-tron,NMC,Cold,Short,Yes,High
+Positive,Kia EV6,NMC,Unknown,Long,Yes,Low
+Negative,Polestar,NMC,Mild,Long,Yes,Low
+Neutral,Tesla (General),NMC,Cold,Long,Yes,High
+Positive,Ford Mustang Mach-E,NMC,Mild,Long,Yes,High
+Neutral,BMW iX,LFP,Hot,Unknown,Unknown,Low
+Neutral,Nissan Ariya,NMC,Hot,Long,No,Unknown
+Negative,Hyundai Ioniq 5,NMC,Hot,Long,Yes,Low
+Positive,BMW iX,NMC,Mild,Short,Yes,High
+Negative,Polestar 2,NMC,Mild,Long,Yes,Low
+Negative,Polestar 2,NMC,Mild,Short,Yes,Unknown
+Positive,Kia EV6,NMC,Cold,Short,Yes,Low
+Positive,Ford Mustang Mach-E,NMC,Cold,Short,Yes,Low
+Positive,Nissan Leaf,LFP,Mild,Long,Yes,High
+Positive,Tesla Model 3,LFP,Cold,Long,Yes,High
+Positive,Chevy Bolt EV,NMC,Mild,Short,Yes,High
+Negative,VW ID.4,NMC,Unknown,Long,Yes,Low
+Neutral,Hyundai Ioniq 5,NMC,Mild,Short,Yes,Unknown
+Negative,Polestar 2,NMC,Mild,Short,Yes,Unknown
+Positive,Polestar 2,NMC,Mild,Short,Yes,High
+Negative,VW ID.4,NMC,Unknown,Short,Yes,Low
+Negative,VW ID.4,NMC,Mild,Unknown,No,Low
+Positive,Nissan Leaf,LFP,Mild,Short,Yes,High
+Neutral,Toyota bZ4X,NMC,Cold,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Cold,Short,Yes,High
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,High
+Positive,Tesla Model Y,LFP,Cold,Long,Yes,High
+Positive,Tesla Model Y,NMC,Cold,Short,Yes,High
+Positive,Tesla Model Y,LFP,Unknown,Short,No,High
+Negative,Tesla Model Y,LFP,Hot,Unknown,Yes,Low
+Positive,Tesla Model Y,LFP,Cold,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Hot,Short,Yes,High
+Positive,Tesla Model Y,LFP,Cold,Long,Yes,Low
+Positive,Tesla Model Y,LFP,Cold,Short,Yes,High
+Positive,Tesla Model Y,NMC,Hot,Long,No,High
+Negative,Tesla Model Y,NMC,Cold,Long,Yes,Unknown
+Positive,Tesla Model Y,LFP,Cold,Long,Yes,Low
+Neutral,Tesla Model Y,LFP,Cold,Short,Yes,Unknown
+Positive,Tesla Model Y,LFP,Hot,Short,Yes,High
+Positive,Tesla Model Y,LFP,Hot,Short,Yes,High
+Negative,Tesla Model Y,NMC,Hot,Long,Yes,Low
+Neutral,Tesla Model Y,LFP,Hot,Long,Yes,High
+Positive,Tesla Model Y,LFP,Hot,Short,No,High
+Positive,Tesla Model Y,NMC,Cold,Long,No,High
+Positive,Tesla Model Y,LFP,Cold,Long,No,High
+Negative,Tesla Model Y,NMC,Hot,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Hot,Long,Yes,High
+Positive,Tesla Model Y,NMC,Hot,Short,No,High
+Neutral,Tesla Model Y,LFP,Hot,Long,Yes,High
+Positive,Tesla Model 3,NMC,Cold,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,High
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,High
+Positive,Tesla Model 3,NMC,Cold,Long,Yes,High
+Neutral,Tesla Model 3,LFP,Hot,Long,Yes,Low
+Positive,Tesla Model 3,LFP,Unknown,Long,Yes,High
+Positive,Tesla Model 3,NMC,Hot,Short,Yes,High
+Negative,Tesla Model 3,LFP,Cold,Long,Yes,Low
+Negative,Tesla Model 3,LFP,Hot,Long,Yes,Unknown
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Positive,Tesla Model 3,LFP,Cold,Short,Yes,High
+Positive,Tesla Model 3,LFP,Hot,Unknown,Yes,High
+Neutral,Tesla Model 3,NMC,Unknown,Long,Yes,Low
+Positive,Tesla Model 3,LFP,Cold,Long,Yes,High
+Negative,Tesla Model 3,LFP,Hot,Long,Yes,Unknown
+Negative,Tesla Model 3,NMC,Hot,Unknown,Yes,Low
+Negative,Tesla Model 3,LFP,Hot,Long,No,Low
+Negative,Tesla Model 3,NMC,Hot,Unknown,Yes,Unknown
+Positive,Tesla Model 3,NMC,Hot,Long,Yes,High
+Negative,Tesla Model 3,LFP,Cold,Short,Yes,Unknown
+Positive,Tesla Model 3,LFP,Cold,Unknown,Yes,High
+Positive,Tesla Model 3,LFP,Cold,Long,Unknown,Unknown
+Neutral,Tesla Model 3,LFP,Cold,Long,Yes,Unknown
+Positive,Tesla Model 3,NMC,Cold,Unknown,Yes,High
+Positive,Tesla Model 3,NMC,Hot,Long,Yes,Low
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,High
+Neutral,Tesla Model 3,NMC,Unknown,Long,Yes,Low
+Positive,Tesla Model 3,NMC,Cold,Long,Unknown,Unknown
+Positive,Tesla Model 3,LFP,Unknown,Long,Yes,High
+Positive,Tesla Model 3,NMC,Hot,Long,Yes,Unknown
+Positive,Tesla Model 3,NMC,Cold,Long,Yes,Unknown
+Positive,Tesla Model 3,LFP,Hot,Unknown,Yes,High
+Positive,Tesla Model 3,NMC,Cold,Unknown,Yes,High
+Neutral,Tesla Model 3,LFP,Hot,Long,Yes,Low
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Positive,Tesla Model 3,LFP,Hot,Long,Yes,High
+Positive,Tesla Model 3,LFP,Hot,Long,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,No,High
+Neutral,Tesla Model 3,NMC,Cold,Long,Unknown,Low
+Positive,Tesla Model 3,NMC,Cold,Long,No,High
+Positive,Tesla Model 3,NMC,Hot,Long,Yes,High
+Positive,Tesla Model 3,NMC,Cold,Long,Unknown,High
+Neutral,Tesla Model 3,LFP,Hot,Long,Yes,Low
+Positive,Tesla Model 3,NMC,Unknown,Long,No,Low
+Negative,VW ID.4,NMC,Hot,Unknown,Yes,High
+Positive,VW ID.4,NMC,Unknown,Long,Yes,High
+Positive,VW ID.4,NMC,Hot,Short,Yes,Unknown
+Positive,VW ID.4,NMC,Hot,Long,Yes,Low
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Negative,VW ID.4,NMC,Unknown,Long,Yes,High
+Positive,VW ID.4,NMC,Cold,Short,Yes,High
+Positive,VW ID.4,NMC,Unknown,Short,Yes,High
+Positive,VW ID.4,NMC,Unknown,Long,Yes,High
+Positive,VW ID.4,NMC,Hot,Long,Yes,High
+Positive,VW ID.4,NMC,Cold,Long,Yes,High
+Negative,VW ID.4,NMC,Unknown,Long,Yes,Low
+Positive,VW ID.4,NMC,Cold,Long,No,High
+Positive,VW ID.4,NMC,Unknown,Short,Yes,High
+Positive,VW ID.4,NMC,Hot,Long,Yes,High
+Positive,VW ID.4,NMC,Hot,Long,Yes,Low
+Negative,VW ID.4,NMC,Unknown,Long,Yes,Unknown
+Positive,VW ID.4,NMC,Cold,Short,Yes,High
+Positive,VW ID.4,NMC,Hot,Long,Yes,High
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Positive,VW ID.4,NMC,Cold,Short,Yes,Low
+Positive,VW ID.4,NMC,Cold,Short,Yes,Unknown
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,High
+Positive,Tesla Model Y,NMC,Cold,Short,Yes,High
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,High
+Positive,Tesla Model Y,LFP,Cold,Long,Yes,High
+Positive,Tesla Model Y,NMC,Cold,Short,Yes,High
+Positive,Tesla Model Y,LFP,Unknown,Short,No,High
+Negative,Tesla Model Y,LFP,Hot,Unknown,Yes,Low
+Positive,Tesla Model Y,LFP,Cold,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Hot,Short,Yes,High
+Positive,Tesla Model Y,LFP,Cold,Long,Yes,Low
+Positive,Tesla Model Y,LFP,Cold,Short,Yes,High
+Neutral,Tesla Model Y,NMC,Cold,Long,Unknown,High
+Positive,Tesla Model Y,NMC,Hot,Long,No,High
+Negative,Tesla Model Y,NMC,Cold,Long,Yes,Unknown
+Positive,Tesla Model Y,LFP,Cold,Long,Yes,Low
+Neutral,Tesla Model Y,LFP,Cold,Short,Yes,Unknown
+Positive,Tesla Model Y,LFP,Hot,Short,Yes,High
+Positive,Tesla Model Y,LFP,Hot,Short,Yes,High
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,High
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,High
+Neutral,Tesla Model Y,NMC,Mild,Long,No,Unknown
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,Unknown
+Neutral,Tesla Model Y,NMC,Mild,Long,Unknown,High
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,Low
+Neutral,Tesla Model Y,LFP,Cold,Long,Yes,Unknown
+Negative,Tesla Model Y,NMC,Hot,Long,Yes,Low
+Neutral,Tesla Model Y,LFP,Hot,Long,Yes,High
+Positive,Tesla Model Y,LFP,Hot,Short,No,High
+Positive,Tesla Model Y,NMC,Cold,Long,No,High
+Positive,Tesla Model Y,LFP,Cold,Long,No,High
+Negative,Tesla Model Y,NMC,Hot,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Hot,Long,Yes,High
+Positive,Tesla Model Y,NMC,Hot,Short,No,High
+Neutral,Tesla Model Y,NMC,Cold,Long,Unknown,Unknown
+Neutral,Tesla Model Y,LFP,Hot,Long,Yes,High
+Neutral,Tesla Model Y,NMC,Cold,Long,Unknown,Low
+Positive,Tesla Model 3,NMC,Cold,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Short,Yes,High
+Positive,Tesla Model 3,LFP,Mild,Long,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,High
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,High
+Negative,Tesla Model 3,NMC,Cold,Long,Yes,Low
+Positive,Tesla Model 3,NMC,Cold,Long,Yes,High
+Neutral,Tesla Model 3,LFP,Hot,Long,Yes,Low
+Positive,Tesla Model 3,LFP,Unknown,Long,Yes,High
+Positive,Tesla Model 3,NMC,Hot,Short,Yes,High
+Positive,Tesla Model 3,LFP,Unknown,Long,No,High
+Negative,Tesla Model 3,LFP,Cold,Long,Yes,Low
+Positive,Tesla Model 3,LFP,Mild,Long,Unknown,Unknown
+Negative,Tesla Model 3,LFP,Hot,Long,Yes,Unknown
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Positive,Tesla Model 3,LFP,Cold,Short,Yes,High
+Positive,Tesla Model 3,LFP,Hot,Unknown,Yes,High
+Neutral,Tesla Model 3,NMC,Unknown,Long,Yes,Low
+Positive,Tesla Model 3,LFP,Cold,Long,Yes,High
+Negative,Tesla Model 3,LFP,Hot,Long,Yes,Unknown
+Negative,Tesla Model 3,NMC,Hot,Unknown,Yes,Low
+Negative,Tesla Model 3,LFP,Hot,Long,No,Low
+Negative,Tesla Model 3,NMC,Hot,Unknown,Yes,Unknown
+Positive,Tesla Model 3,NMC,Hot,Long,Yes,High
+Negative,Tesla Model 3,LFP,Cold,Short,Yes,Unknown
+Positive,Tesla Model 3,LFP,Cold,Unknown,Yes,High
+Positive,Tesla Model 3,LFP,Cold,Long,Unknown,Unknown
+Neutral,Tesla Model 3,LFP,Cold,Long,Yes,Unknown
+Neutral,Tesla Model 3,NMC,Cold,Long,Unknown,Unknown
+Neutral,Tesla Model 3,LFP,Cold,Long,Yes,Unknown
+Positive,Tesla Model 3,NMC,Cold,Unknown,Yes,High
+Positive,Tesla Model 3,NMC,Hot,Long,Yes,Low
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,High
+Neutral,Tesla Model 3,NMC,Unknown,Long,Yes,Low
+Positive,Tesla Model 3,NMC,Cold,Long,Unknown,Unknown
+Positive,Tesla Model 3,NMC,Cold,Long,Yes,Unknown
+Neutral,Tesla Model 3,LFP,Cold,Long,Yes,Unknown
+Positive,Tesla Model 3,NMC,Cold,Long,Yes,Unknown
+Positive,Tesla Model 3,NMC,Unknown,Long,No,Low
+Positive,Tesla Model 3,LFP,Unknown,Long,Yes,High
+Positive,Tesla Model 3,LFP,Cold,Long,Yes,High
+Positive,Tesla Model 3,NMC,Hot,Long,Yes,Unknown
+Neutral,Tesla Model 3,LFP,Unknown,Long,Yes,Low
+Negative,Tesla Model 3,LFP,Hot,Long,Yes,Unknown
+Neutral,Tesla Model 3,NMC,Cold,Long,No,Low
+Positive,Tesla Model 3,NMC,Cold,Long,Yes,Unknown
+Neutral,Tesla Model 3,LFP,Mild,Long,Unknown,Low
+Neutral,Tesla Model 3,NMC,Cold,Long,No,Low
+Neutral,Tesla Model 3,LFP,Unknown,Long,Yes,Low
+Neutral,Tesla Model 3,NMC,Unknown,Short,No,High
+Positive,Tesla Model 3,LFP,Hot,Unknown,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,Unknown
+Positive,Tesla Model 3,NMC,Cold,Unknown,Yes,High
+Neutral,Tesla Model 3,LFP,Hot,Long,Yes,Low
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Neutral,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Neutral,Tesla Model 3,LFP,Unknown,Short,No,Unknown
+Neutral,Tesla Model 3,LFP,Unknown,Long,Yes,Low
+Positive,Tesla Model 3,LFP,Hot,Long,Yes,High
+Positive,Tesla Model 3,LFP,Hot,Long,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,No,High
+Neutral,Tesla Model 3,NMC,Mild,Long,Unknown,Low
+Neutral,Tesla Model 3,NMC,Cold,Long,Unknown,Low
+Neutral,Tesla Model 3,NMC,Mild,Long,Unknown,Unknown
+Positive,Tesla Model 3,NMC,Cold,Long,No,High
+Positive,Tesla Model 3,NMC,Hot,Long,Yes,High
+Positive,Tesla Model 3,NMC,Cold,Long,Unknown,High
+Neutral,Tesla Model 3,LFP,Hot,Long,Yes,Low
+Positive,Tesla Model 3,NMC,Unknown,Long,No,Low
+Negative,VW ID.4,NMC,Hot,Unknown,Yes,High
+Positive,VW ID.4,NMC,Unknown,Long,Yes,High
+Positive,VW ID.4,NMC,Hot,Short,Yes,Unknown
+Positive,VW ID.4,NMC,Hot,Long,Yes,Low
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Negative,VW ID.4,NMC,Unknown,Long,Yes,High
+Positive,VW ID.4,NMC,Cold,Short,Yes,High
+Positive,VW ID.4,NMC,Unknown,Short,Yes,High
+Neutral,VW ID.4,NMC,Hot,Long,Yes,Low
+Positive,VW ID.4,NMC,Unknown,Long,Yes,High
+Positive,VW ID.4,NMC,Hot,Long,Yes,High
+Positive,VW ID.4,NMC,Cold,Long,Yes,High
+Neutral,VW ID.4,NMC,Cold,Short,Yes,Unknown
+Negative,VW ID.4,NMC,Unknown,Long,Yes,Low
+Positive,VW ID.4,NMC,Cold,Long,No,High
+Positive,VW ID.4,NMC,Unknown,Unknown,No,Low
+Neutral,VW ID.4,NMC,Unknown,Long,Unknown,High
+Positive,VW ID.4,NMC,Unknown,Short,Yes,High
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Unknown
+Positive,VW ID.4,NMC,Hot,Long,Yes,High
+Positive,VW ID.4,NMC,Hot,Long,Yes,Low
+Negative,VW ID.4,NMC,Unknown,Long,Yes,Unknown
+Positive,VW ID.4,NMC,Cold,Short,Yes,High
+Positive,VW ID.4,NMC,Hot,Long,Yes,High
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Positive,VW ID.4,NMC,Cold,Short,Yes,Low
+Positive,VW ID.4,NMC,Cold,Short,Yes,Unknown
+Neutral,VW ID.4,NMC,Cold,Long,Yes,Low
+Neutral,VW ID.4,NMC,Cold,Long,No,High
+Neutral,Tesla (General),LFP,Unknown,Short,Unknown,High
+Neutral,Tesla (General),LFP,Hot,Unknown,Yes,Unknown
+Negative,Tesla (General),LFP,Unknown,Short,Yes,Low
+Positive,Tesla (General),LFP,Unknown,Short,Unknown,Low
+Positive,Tesla (General),LFP,Unknown,Long,Unknown,High
+Neutral,Tesla (General),NMC,Cold,Long,Yes,High
+Positive,Tesla (General),NMC,Cold,Long,Unknown,High
+Positive,Tesla (General),NMC,Mild,Long,Unknown,High
+Neutral,Tesla (General),LFP,Unknown,Short,Yes,High
+Neutral,Tesla (General),LFP,Cold,Unknown,Yes,High
+Negative,Tesla (General),NMC,Unknown,Unknown,Yes,Low
+Neutral,Tesla (General),NMC,Mild,Unknown,Yes,Unknown
+Negative,Tesla (General),NMC,Unknown,Long,Yes,Low
+Neutral,Tesla (General),NMC,Unknown,Short,Yes,High
+Positive,Tesla (General),NMC,Unknown,Long,Yes,High
+Positive,Tesla (General),NMC,Unknown,Long,Yes,High
+Positive,Tesla (General),NMC,Mild,Long,Unknown,High
+Neutral,Tesla (General),NMC,Unknown,Long,Unknown,Low
+Neutral,Tesla (General),NMC,Unknown,Unknown,Yes,Low
+Neutral,Tesla (General),NMC,Mild,Short,Yes,High
+Neutral,Tesla (General),LFP,Unknown,Long,Yes,Low
+Neutral,Tesla (General),LFP,Unknown,Unknown,Yes,Low
+Positive,Tesla (General),LFP,Unknown,Unknown,Yes,High
+Neutral,Tesla (General),NMC,Unknown,Long,Unknown,Low
+Positive,Tesla (General),NMC,Unknown,Long,Yes,High
+Positive,Tesla (General),NMC,Cold,Unknown,No,High
+Neutral,Tesla (General),NMC,Unknown,Long,No,High
+Neutral,Tesla (General),LFP,Unknown,Short,Yes,High
+Neutral,Tesla (General),LFP,Mild,Unknown,Yes,High
+Negative,Tesla (General),LFP,Cold,Long,Yes,High
+Neutral,Tesla (General),NMC,Unknown,Long,Yes,High
+Neutral,Tesla (General),NMC,Hot,Short,Yes,High
+Negative,Tesla (General),LFP,Cold,Unknown,Yes,Low
+Neutral,Tesla (General),NMC,Cold,Unknown,Unknown,Low
+Neutral,Tesla Model 3,LFP,Mild,Long,No,Unknown
+Neutral,Tesla Model 3,LFP,Cold,Unknown,Unknown,Low
+Neutral,Tesla Model 3,LFP,Cold,Long,No,High
+Neutral,Tesla Model 3,LFP,Mild,Unknown,Yes,High
+Neutral,Tesla Model 3,LFP,Cold,Unknown,Unknown,Low
+Neutral,Tesla Model 3,LFP,Unknown,Long,Unknown,High
+Neutral,Tesla Model 3,NMC,Cold,Long,Unknown,Unknown
+Neutral,Tesla Model 3,LFP,Mild,Short,Yes,Unknown
+Positive,Tesla Model 3,NMC,Cold,Short,No,Low
+Positive,Tesla Model 3,NMC,Unknown,Long,Unknown,High
+Neutral,Tesla Model 3,NMC,Hot,Unknown,No,High
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Neutral,Tesla Model 3,LFP,Unknown,Unknown,Yes,High
+Neutral,Tesla Model 3,LFP,Unknown,Long,Unknown,Low
+Positive,Tesla Model 3,NMC,Hot,Long,Unknown,High
+Positive,Tesla Model 3,NMC,Cold,Long,Unknown,Unknown
+Positive,Tesla Model 3,NMC,Unknown,Long,No,Low
+Neutral,Tesla Model 3,NMC,Unknown,Short,No,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Unknown,High
+Positive,Tesla Model 3,NMC,Mild,Long,Unknown,High
+Neutral,Tesla Model 3,NMC,Cold,Short,Unknown,Unknown
+Neutral,Tesla Model 3,LFP,Cold,Long,Unknown,Low
+Positive,Tesla Model 3,LFP,Mild,Long,Yes,High
+Neutral,Tesla Model 3,LFP,Hot,Long,Unknown,High
+Neutral,Tesla Model 3,LFP,Mild,Long,No,High
+Positive,Tesla Model 3,LFP,Unknown,Long,Yes,High
+Neutral,Tesla Model 3,LFP,Cold,Long,Unknown,Unknown
+Neutral,Tesla Model 3,LFP,Cold,Long,Unknown,Unknown
+Positive,Tesla Model 3,LFP,Hot,Short,Unknown,High
+Positive,Tesla Model 3,LFP,Unknown,Long,Yes,High
+Neutral,Tesla Model 3,LFP,Hot,Long,Unknown,High
+Neutral,Tesla Model 3,LFP,Cold,Unknown,Unknown,Low
+Neutral,Tesla Model 3,LFP,Unknown,Short,Yes,Unknown
+Neutral,Tesla Model 3,LFP,Cold,Unknown,Unknown,High
+Neutral,Tesla Model 3,LFP,Cold,Long,Unknown,Low
+Neutral,Tesla Model 3,NMC,Unknown,Short,No,Low
+Neutral,Tesla Model 3,LFP,Mild,Long,No,High
+Negative,Tesla Model 3,LFP,Unknown,Short,Yes,Unknown
+Positive,Tesla Model 3,NMC,Unknown,Long,Yes,Unknown
+Positive,Tesla Model 3,LFP,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Cold,Long,Yes,Unknown
+Positive,Tesla Model 3,NMC,Hot,Unknown,Unknown,High
+Positive,Tesla Model 3,NMC,Cold,Unknown,Yes,Unknown
+Neutral,Tesla Model 3,LFP,Mild,Long,Yes,Low
+Negative,Tesla Model 3,NMC,Hot,Long,Yes,Low
+Neutral,Tesla Model 3,NMC,Mild,Unknown,Yes,High
+Negative,Tesla Model 3,LFP,Unknown,Unknown,Yes,Low
+Negative,Tesla Model 3,NMC,Unknown,Long,Yes,Unknown
+Positive,Tesla Model 3,LFP,Unknown,Long,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Unknown,Yes,High
+Positive,Tesla Model 3,NMC,Cold,Long,No,High
+Neutral,Tesla Model 3,LFP,Unknown,Short,Yes,Unknown
+Neutral,Tesla Model 3,LFP,Cold,Long,Unknown,Low
+Positive,Tesla Model 3,NMC,Cold,Unknown,Yes,High
+Neutral,Tesla Model 3,NMC,Unknown,Short,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Unknown,Yes,High
+Positive,Tesla Model 3,NMC,Cold,Unknown,Yes,High
+Positive,Tesla Model 3,NMC,Unknown,Long,Unknown,High
+Negative,Tesla Model 3,NMC,Unknown,Long,Unknown,Low
+Neutral,Tesla Model 3,NMC,Unknown,Unknown,Yes,High
+Positive,Tesla Model 3,LFP,Unknown,Unknown,Yes,High
+Negative,Tesla Model 3,NMC,Hot,Long,Unknown,Low
+Negative,Tesla Model 3,NMC,Unknown,Unknown,Yes,Low
+Positive,Tesla Model 3,NMC,Cold,Short,No,Low
+Neutral,Tesla Model 3,NMC,Cold,Long,Unknown,Unknown
+Positive,Tesla Model 3,NMC,Cold,Long,Unknown,High
+Neutral,Tesla Model 3,LFP,Unknown,Long,Yes,Unknown
+Neutral,Tesla Model 3,LFP,Cold,Short,Yes,Low
+Negative,Tesla Model 3,NMC,Hot,Short,Unknown,Low
+Neutral,Tesla Model 3,NMC,Cold,Unknown,Unknown,Low
+Neutral,Tesla Model 3,NMC,Hot,Unknown,Yes,High
+Negative,Tesla Model Y,LFP,Unknown,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,High
+Negative,Tesla Model Y,LFP,Cold,Short,Unknown,Low
+Neutral,Tesla Model Y,LFP,Cold,Long,No,Unknown
+Negative,Tesla Model Y,LFP,Hot,Short,Unknown,Low
+Neutral,Tesla Model Y,LFP,Unknown,Short,Unknown,High
+Neutral,Tesla Model Y,LFP,Mild,Short,Unknown,Unknown
+Neutral,Tesla Model Y,LFP,Mild,Short,No,Unknown
+Neutral,Tesla Model Y,NMC,Unknown,Short,Yes,Low
+Neutral,Tesla Model Y,LFP,Mild,Short,Yes,High
+Neutral,Tesla Model Y,LFP,Hot,Short,Unknown,High
+Positive,Tesla Model Y,LFP,Cold,Long,Unknown,High
+Negative,Tesla Model Y,NMC,Mild,Long,Unknown,Low
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,High
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,High
+Positive,Tesla Model Y,LFP,Unknown,Long,Unknown,High
+Negative,Tesla Model Y,NMC,Hot,Long,Unknown,Low
+Neutral,Tesla Model Y,NMC,Cold,Long,Unknown,High
+Neutral,Tesla Model Y,NMC,Unknown,Long,Unknown,Low
+Positive,Tesla Model Y,LFP,Unknown,Long,Unknown,High
+Positive,Tesla Model Y,NMC,Cold,Short,Yes,Unknown
+Negative,Tesla Model Y,NMC,Cold,Unknown,No,Low
+Positive,Tesla Model Y,NMC,Cold,Unknown,Yes,High
+Positive,Tesla Model Y,NMC,Cold,Short,Unknown,High
+Neutral,Tesla Model Y,LFP,Cold,Short,Yes,Unknown
+Neutral,Tesla Model Y,LFP,Unknown,Short,Yes,Unknown
+Positive,Tesla Model Y,LFP,Unknown,Long,Unknown,High
+Positive,Tesla Model Y,LFP,Unknown,Unknown,No,High
+Negative,Tesla Model Y,LFP,Unknown,Short,Unknown,Low
+Negative,Tesla Model Y,NMC,Cold,Long,Unknown,Low
+Neutral,Tesla Model Y,LFP,Unknown,Short,Unknown,High
+Negative,Tesla Model Y,LFP,Cold,Short,Unknown,Low
+Neutral,Tesla Model Y,NMC,Unknown,Unknown,Yes,High
+Positive,Tesla Model Y,NMC,Unknown,Short,Yes,High
+Positive,Tesla Model Y,NMC,Unknown,Short,Yes,High
+Neutral,Tesla Model Y,LFP,Mild,Long,Unknown,Unknown
+Positive,Tesla Model Y,NMC,Hot,Long,Yes,High
+Positive,Tesla Model Y,NMC,Hot,Long,No,High
+Negative,Tesla Model Y,NMC,Unknown,Long,Yes,Low
+Neutral,Tesla Model Y,NMC,Unknown,Unknown,Yes,High
+Neutral,Tesla Model Y,NMC,Cold,Long,Unknown,High
+Positive,Tesla Model Y,LFP,Cold,Long,Yes,High
+Negative,Tesla Model Y,NMC,Cold,Unknown,No,Low
+Negative,Tesla Model Y,NMC,Mild,Long,Unknown,Low
+Positive,Tesla Model Y,NMC,Hot,Long,Yes,High
+Neutral,Tesla Model Y,NMC,Unknown,Long,Unknown,Low
+Negative,Tesla Model Y,NMC,Unknown,Long,Yes,Low
+Neutral,Tesla Model Y,LFP,Unknown,Long,No,Unknown
+Neutral,Tesla Model Y,NMC,Unknown,Unknown,No,Low
+Positive,Tesla Model Y,LFP,Cold,Long,Yes,High
+Neutral,Tesla Model Y,NMC,Cold,Unknown,Unknown,Low
+Positive,Tesla Model Y,NMC,Cold,Short,Yes,High
+Neutral,Tesla Model Y,NMC,Unknown,Unknown,Yes,High
+Negative,Tesla Model Y,NMC,Unknown,Short,Unknown,Low
+Neutral,Tesla Model Y,LFP,Unknown,Short,Yes,High
+Neutral,Tesla Model Y,LFP,Unknown,Long,Yes,High
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,High
+Neutral,Tesla Model Y,NMC,Mild,Long,Yes,High
+Negative,Tesla Model Y,NMC,Unknown,Unknown,No,Low
+Negative,Tesla Model Y,NMC,Mild,Long,Unknown,Low
+Positive,Tesla Model Y,NMC,Unknown,Long,Yes,High
+Negative,Tesla Model Y,NMC,Unknown,Unknown,No,Low
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,Low
+Positive,Tesla Model Y,NMC,Cold,Long,No,High
+Negative,Tesla Model Y,NMC,Cold,Long,Unknown,Low
+Neutral,Tesla Model Y,NMC,Cold,Long,Unknown,High
+Neutral,Tesla Model Y,NMC,Cold,Long,Yes,High
+Neutral,Tesla Model Y,NMC,Cold,Unknown,Yes,Unknown
+Negative,Tesla Model Y,NMC,Unknown,Long,Yes,Low
+Negative,Nissan Leaf,NMC,Mild,Long,Unknown,Low
+Positive,Nissan Leaf,NMC,Unknown,Long,Yes,High
+Positive,Nissan Leaf,NMC,Unknown,Short,Yes,Low
+Positive,Nissan Leaf,NMC,Unknown,Short,Unknown,High
+Neutral,Nissan Leaf,NMC,Mild,Short,Yes,High
+Positive,Nissan Leaf,NMC,Cold,Long,Unknown,High
+Positive,Nissan Leaf,NMC,Mild,Short,Yes,High
+Positive,Nissan Leaf,NMC,Mild,Short,Unknown,High
+Negative,Nissan Leaf,NMC,Unknown,Long,No,Low
+Negative,Nissan Leaf,NMC,Hot,Long,Unknown,Low
+Positive,Nissan Leaf,NMC,Mild,Short,Yes,High
+Neutral,Nissan Leaf,NMC,Unknown,Short,Yes,High
+Positive,Nissan Leaf,NMC,Cold,Short,Yes,High
+Positive,Nissan Leaf,NMC,Mild,Short,Yes,High
+Negative,Nissan Leaf,NMC,Cold,Short,Unknown,Low
+Neutral,Nissan Leaf,NMC,Hot,Short,Yes,High
+Negative,Nissan Leaf,NMC,Mild,Short,Yes,Low
+Neutral,Nissan Leaf,NMC,Mild,Short,Yes,High
+Positive,Nissan Leaf,NMC,Mild,Long,Yes,High
+Positive,Nissan Leaf,NMC,Mild,Short,Yes,High
+Positive,Nissan Leaf,NMC,Cold,Short,Yes,High
+Positive,Nissan Leaf,NMC,Mild,Short,Yes,High
+Positive,Nissan Leaf,NMC,Hot,Short,Yes,High
+Positive,Nissan Leaf,NMC,Mild,Short,Yes,High
+Positive,Nissan Leaf,NMC,Unknown,Short,No,High
+Negative,Nissan Leaf,NMC,Cold,Short,Unknown,Low
+Negative,Nissan Leaf,NMC,Cold,Short,Unknown,Low
+Neutral,Nissan Leaf,NMC,Mild,Short,Yes,Unknown
+Negative,Nissan Leaf,NMC,Hot,Short,Yes,High
+Positive,Nissan Leaf,NMC,Unknown,Long,Unknown,High
+Positive,Nissan Leaf,NMC,Cold,Long,Yes,High
+Negative,Hyundai Ioniq 5,NMC,Unknown,Short,Yes,Low
+Positive,Hyundai Ioniq 5,LFP,Cold,Unknown,Unknown,High
+Neutral,Hyundai Ioniq 5,LFP,Hot,Long,Yes,Unknown
+Neutral,Hyundai Ioniq 5,LFP,Cold,Long,Unknown,Low
+Negative,Hyundai Ioniq 5,LFP,Mild,Long,Unknown,Unknown
+Positive,Hyundai Ioniq 5,LFP,Mild,Long,Unknown,High
+Negative,Hyundai Ioniq 5,LFP,Cold,Short,Yes,Low
+Neutral,Hyundai Ioniq 5,LFP,Unknown,Long,Unknown,High
+Negative,Hyundai Ioniq 5,NMC,Mild,Long,Unknown,Low
