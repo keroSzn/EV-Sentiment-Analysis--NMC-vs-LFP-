@@ -77,7 +77,7 @@ def contains_features(text):
     return has_climate or has_commute or has_charging or has_patience
 
 def main():
-    subreddits = ['teslamotors', 'TeslaModel3', 'TeslaModelY', 'leaf', 'KonaElectric', 'ioniq5', 'BMWI4', 'ChevyBolt', 'F150Lightning', 'Zeekr7xAustralia', 'Zeekr', 'Xpeng','Nio','BYD']
+    subreddits = ['teslamotors', 'TeslaModel3', 'TeslaModelY', 'leaf', 'KonaElectric', 'ioniq5', 'BMWI4', 'ChevyBolt', 'F150Lightning', 'VWID4Owners']
     queries = ['iron phosphate', 'lithium iron', 'blade battery', 'nickel manganese', 'ternary battery', 'standard range', 'long range', 'LFP', 'NMC', 'battery degradation', 'battery health', 'range drop']
     
     data_dir = r'c:\Users\Keramettin\Desktop\projedata\data11'
